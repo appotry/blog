@@ -110,9 +110,9 @@ lidarr示例图片
 
 ## 注意事项
 
-tmm，jackett，sonarr最好配置代理。否则，刮削，图片墙可能工作不正常。
+- tmm，jackett，sonarr最好配置代理。否则，刮削，图片墙可能工作不正常。
 
-docker最好配置镜像加速，提高安装docker速度
+- docker最好配置镜像加速，提高安装docker速度
 
-一些docker需要访问github，最好配置代理。
+- 一些docker需要访问github，最好配置代理。
 
