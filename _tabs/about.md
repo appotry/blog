@@ -5,4 +5,4 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+专注于技术，擅长Linux，Linux driver， 嵌入式，流媒体等方向。
