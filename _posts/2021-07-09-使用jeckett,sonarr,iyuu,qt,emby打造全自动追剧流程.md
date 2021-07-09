@@ -13,7 +13,7 @@ image:
   alt: image alternative text
 ---
 
-
+注意：图床使用sda1，图片显示问题自己解决
 
 jackett 作为种子源，sonarr剧集管理，bt下载，qbittorrent主力下载，使用iyuu转移辅种，emby，jellyfin做海报墙。基本算是完美打通全流程自动追剧。bt种子文件命名规则SxxExx的自动识别下载，国内的资源手动查找下载，自动推送到emby刮削好
 
