@@ -4,7 +4,7 @@ layout: post
 title: Github Pages + jekyll 全面介绍极简搭建个人网站和博客
 date: 2021-3-03
 categories: blog
-tags: [Bloging, Github Jekyll]
+tags: [Bloging, Github, Jekyll]
 description: 利用github pages搭建个人博客。
 ---
 
