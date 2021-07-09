@@ -2,7 +2,7 @@
 layout: post
 title: 使用jeckett,sonarr,iyuu,qt,emby打造全自动追剧流程
 date: 2021-3-03
-categories: blog
+categories: [Docker, PT]
 tags: [Docker, PT, Emby, Sonarr, Jeckett, Portainer, Watchtower]
 description: 使用jeckett,sonarr,iyuu,qt,emby打造全自动追剧流程。
 
